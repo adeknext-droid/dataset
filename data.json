@@ -2235,8 +2235,8 @@
     "age_at_death": 38,
     "religion": "Luthers",
     "job": "Vendumeester / koopman / schrijver",
-    "addrFull": "WateRooms-Katholiekant 19",
-    "addrStreet": "WateRooms-Katholiekant",
+    "addrFull": "Waterkant 19",
+    "addrStreet": "Waterkant",
     "burial": "Onbekend"
   },
   {
@@ -2249,8 +2249,8 @@
     "age_at_death": "Onbekend",
     "religion": "Onbekend",
     "job": "Onbekend",
-    "addrFull": "WateRooms-Katholiekant 19",
-    "addrStreet": "WateRooms-Katholiekant",
+    "addrFull": "Waterkant 19",
+    "addrStreet": "Waterkant",
     "burial": "Onbekend"
   },
   {
@@ -3705,8 +3705,8 @@
     "age_at_death": 70,
     "religion": "Rooms-Katholiek",
     "job": "Vroedvrouw",
-    "addrFull": "KeRooms-Katholiekhof- of Malebatrumstraat 191",
-    "addrStreet": "KeRooms-Katholiekhof- of Malebatrumstraat",
+    "addrFull": "Kerkhof- of Malebatrumstraat 191",
+    "addrStreet": "Kerkhof- of Malebatrumstraat",
     "burial": "Onbekend"
   }
 ]
